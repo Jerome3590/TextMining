@@ -1,0 +1,1 @@
+curl -o marrow.json -X GET -H "Content-Type: application/json" -d '{"query":{ "match_all":{}},"_source":["PubmedArticle.MedlineCitation.PMID","PubmedArticle.MedlineCitation.Article.Abstract.AbstractText"]}' http://localhost:9200/med_pubs_api/_search
