@@ -1,6 +1,6 @@
 # TextMining
 
-![Text Mining Mind Map](https://github.com/Jerome3590/TextMining/files/1437937/Predictive.Medicine.Text.Mining.Competition.pdf)
+![Text Mining Mind Map](https://user-images.githubusercontent.com/9680556/32329379-4e50d368-bfb3-11e7-9c14-5ad25b6d7d51.PNG)
 
 Step 1. Get the data.
             - PyCharm w bipython package/medpub API
