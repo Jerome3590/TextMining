@@ -1,4 +1,7 @@
 # TextMining
+
+![Text Mining Mind Map](https://github.com/Jerome3590/TextMining/files/1437937/Predictive.Medicine.Text.Mining.Competition.pdf)
+
 Step 1. Get the data.
             - PyCharm w bipython package/medpub API
 
@@ -14,6 +17,3 @@ Step 4. Choose NLP Model based on Requirements
             - Additional file processing to match correct format for NLP
     
 Step 5. Perform NLP and Analyze Results with Databricks
-
-
-![Text Mining Mind Map](TextMining/Predictive Medicine Text Mining Competition.pdf)
