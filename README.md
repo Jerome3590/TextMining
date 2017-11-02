@@ -16,4 +16,4 @@ Step 4. Choose NLP Model based on Requirements
 Step 5. Perform NLP and Analyze Results with Databricks
 
 
-![Text Mining Mind Map](https://github.com/Jerome3590/TextMining/blob/master/Predictive%20Medicine%20Text%20Mining%20Competition.pdf)
+![Text Mining Mind Map](TextMining/Predictive Medicine Text Mining Competition.pdf)
