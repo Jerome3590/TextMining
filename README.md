@@ -19,6 +19,6 @@ Step 3. Format the data for processing
             https://github.com/Jerome3590/TextMining/blob/master/outfile.json
 
 Step 4. Choose NLP Model based on Requirements
-            - Additional file processing to match correct format for NLP
+            - Additional file processing depending on NLP model selection
     
 Step 5. Perform NLP and Analyze Results with Databricks
