@@ -15,6 +15,7 @@ Step 3. Format the data for processing
             - Elasticsearch query with _sourcefilter
             - curl command to output file
             https://github.com/Jerome3590/TextMining/blob/master/JSON_Processing.py
+            https://github.com/Jerome3590/TextMining/blob/master/outfile.json
 
 Step 4. Choose NLP Model based on Requirements
             - Additional file processing to match correct format for NLP
