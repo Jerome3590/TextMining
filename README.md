@@ -9,6 +9,7 @@ Step 1. Get the data.
 Step 2. Explore the data
             - Elasticsearch with Kibana
             - Identify target fields of interest
+            https://github.com/Jerome3590/TextMining/blob/master/MedPub_script.bash.sh
             https://github.com/Jerome3590/TextMining/blob/master/marrow.json
                 
 Step 3. Format the data for processing
