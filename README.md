@@ -9,12 +9,13 @@ Step 1. Get the data.
 Step 2. Explore the data
             - Elasticsearch with Kibana
             - Identify target fields of interest
+            - Elasticsearch query with _sourcefilter
+            - curl command to output file
             https://github.com/Jerome3590/TextMining/blob/master/MedPub_script.bash.sh
             https://github.com/Jerome3590/TextMining/blob/master/marrow.json
                 
 Step 3. Format the data for processing
-            - Elasticsearch query with _sourcefilter
-            - curl command to output file
+            - Credit to PyRVA's Chris May for helping me put this script together            
             https://github.com/Jerome3590/TextMining/blob/master/JSON_Processing.py
             https://github.com/Jerome3590/TextMining/blob/master/outfile.json
 
