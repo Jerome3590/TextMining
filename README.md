@@ -15,7 +15,7 @@ Step 2. Explore the data
             https://github.com/Jerome3590/TextMining/blob/master/marrow.json
                 
 Step 3. Format the data for processing
-            - Credit to PyRVA's ![Chris May]https://github.com/Chris-May for helping me put this script together            
+            - Credit to PyRVA's ![Chris May](https://github.com/Chris-May) for helping me put this script together            
             https://github.com/Jerome3590/TextMining/blob/master/JSON_Processing.py
             https://github.com/Jerome3590/TextMining/blob/master/outfile.json
 
