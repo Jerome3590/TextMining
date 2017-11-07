@@ -4,7 +4,8 @@
 
 Step 1. Get the data.
             - PyCharm w bipython package/pubmed API
-            https://github.com/Jerome3590/TextMining/blob/master/BoneMarrow.py
+            https://github.com/Jerome3590/TextMining/blob/master/BoneMarrow_medpub.py
+           
 
 Step 2. Explore the data
             - Elasticsearch with Kibana
@@ -13,6 +14,7 @@ Step 2. Explore the data
             - curl command to output file
             https://github.com/Jerome3590/TextMining/blob/master/MedPub_script.bash.sh
             https://github.com/Jerome3590/TextMining/blob/master/marrow.json
+            
                 
 Step 3. Format the data for processing
             - Credit to PyRVA's ![Chris May](https://github.com/Chris-May) for helping me put this script together            
@@ -20,8 +22,10 @@ Step 3. Format the data for processing
             https://github.com/Jerome3590/TextMining/blob/master/JSON_Processing3.py (for pubmed API output)
             https://github.com/Jerome3590/TextMining/blob/master/outfile.json
             https://github.com/Jerome3590/TextMining/blob/master/pubMed.csv (CSV version)
+            
 
 Step 4. Choose NLP Model based on Requirements
             - Additional file processing depending on NLP model selection
+            
     
 Step 5. Perform NLP and Analyze Results with Databricks
